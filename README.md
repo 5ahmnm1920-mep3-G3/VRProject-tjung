@@ -1,28 +1,29 @@
 # VRProject-tjung
  
  ### Project description: 
-Introduction/Project summary 
+Soccer Juggle Ball Game
+Try to juggle the Ball as many times with your foot as you can xD
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+MacOs Mojave, Unity 2019.1.14f, VS Code 1.30.2, Scripting Runtime Version .NET 4.x Equivalent
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+VR Oculus Rift / HTC Vive
 
 ### Visuals: 
 Screenshots (concept and experience), Video
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+/
 
 ### Third party material: 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-incl. progress in percent
+Starting State 15%
 
 ### Limitations: 
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Thomas Junger
