@@ -12,6 +12,19 @@ public class Ball_Juggle_Counter : MonoBehaviour
             Debug.Log("Ball colided");
             Score.scoreValue += 1;
         }
+        
+    }
+
+    void OnCollisionEnter(Collision collision)
+     {
+        if(collision.gameObject.tag == "Ground")
+        {
+            Debug.Log("Ground collision, reset score");
+            Score.scoreValue = 0;
+
+            
+        }
+        
     }
 }
   
