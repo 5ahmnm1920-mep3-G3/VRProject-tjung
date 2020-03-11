@@ -7,9 +7,10 @@ public class Ball_Juggle_Counter : MonoBehaviour
     
      void OnTriggerEnter(Collider collider)
     {
-        if(collider.gameObject.tag == "Ball")
+        if(collider.gameObject.tag == "Collider")
         {
             Debug.Log("Ball colided");
+            Score.scoreValue += 1;
         }
     }
 }
