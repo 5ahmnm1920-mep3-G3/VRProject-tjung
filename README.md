@@ -29,22 +29,22 @@ VR-Fuck Up Projekt
 
 ### Concept Scribbles
 <div>
-<img src="./Pictures/Scribble1" width="512">
+<img src="./Pictures/Scribble1.jpeg" width="512">
 </div
 
 <div>
-<img src="./Pictures/Scribble2" width="512">
+<img src="./Pictures/Scribble2.jpeg" width="512">
 </div>   
 
 
 ### Screenshots
 
 <div>
-<img src="./Pictures/SC-Shot1" width="512">
+<img src="./Pictures/SC-Shot1.png" width="512">
 </div> 
 
 <div>
-<img src="./Pictures/SC-Shot2" width="512">
+<img src="./Pictures/SC-Shot2.png" width="512">
 </div> 
 
 ### Target platform: 
