@@ -29,22 +29,22 @@ VR-Fuck Up Projekt
 
 ### Concept Scribbles
 <div>
-<img src="./Pictures/WhatsApp Image 2020-02-26 at 13.36.24.jpeg" width="512">
-</div>
+<img src="./Pictures/Scribble1" width="512">
+</div
 
 <div>
-<img src="./Pictures/WhatsApp Image 2020-02-26 at 13.36.24 (1)" width="512">
+<img src="./Pictures/Scribble2" width="512">
 </div>   
 
 
 ### Screenshots
 
 <div>
-<img src="./Pictures/Bildschirmfoto 2020-03-19 um 17.08.55" width="512">
+<img src="./Pictures/SC-Shot1" width="512">
 </div> 
 
 <div>
-<img src="./Pictures/Bildschirmfoto 2020-03-19 um 17.08.38" width="512">
+<img src="./Pictures/SC-Shot2" width="512">
 </div> 
 
 ### Target platform: 
