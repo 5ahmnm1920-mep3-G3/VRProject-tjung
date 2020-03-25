@@ -32,7 +32,9 @@ VR-Fuck Up Projekt
 -	Neue Score Collider wurden für die jeweiligen Toore erstellt
 
 -	Neues Shoot Script für den Ball der ihn mit Force schießen lässt, (bei Mausklick)
-### Concept Scribbles https://www.google.com/search?q=apply+force+to+object+unity&rlz=1C5CHFA_enAT815AT816&oq=apply+force+to+obje&aqs=chrome.1.69i57j0l7.7980j1j7&sourceid=chrome&ie=UTF-8#kpvalbx=_p5N7XpLTHobbsAel2Zf4BQ28
+	https://www.youtube.com/watch?v=MBDWTjn05eg
+
+### Concept Scribbles
 <div>
 <img src="./Pictures/Scribble1.jpeg" width="512">
 </div
