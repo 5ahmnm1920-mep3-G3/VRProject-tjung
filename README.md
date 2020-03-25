@@ -27,6 +27,11 @@ VR-Fuck Up Projekt
 
 -	2D Debug Modus wurde getestet und funktioniert
 
+-	Toor Modelle wurden erstellt und in Szene eingebaut
+
+-	Neue Score Collider wurden für die jeweiligen Toore erstellt
+
+-	Neues Shoot Script für den Ball der in mit Force schießt, (bei Mausklick)
 ### Concept Scribbles
 <div>
 <img src="./Pictures/Scribble1.jpeg" width="512">
@@ -60,10 +65,14 @@ Screenshots (concept and experience), Video
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-Starting State 15%
+Starting State 60%
 
 ### Limitations: 
 
+No VR headset to try it.
+
 ### Lessons Learned: 
+
+How to work use Force and Colliders in scripting
 
 Copyright by Thomas Junger
