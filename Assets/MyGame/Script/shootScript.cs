@@ -10,3 +10,4 @@ public class shootScript : MonoBehaviour
         GetComponent<Rigidbody>().useGravity = true;
     }
 }
+ 
